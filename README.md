@@ -1,6 +1,6 @@
 # fractal-dimension-calculator
-A quite simple but powerful fractal dimension calculator. It doesn't really need dependecies outside from basic java. Just select an Image and it'll do the trick for you. Warning though, I'm still working on it.
+A fractal Dimension calculator wrote in Mathematica. It provides tools to compute the minkowski-bouligand dimension of an image.
 
-//the processing file is a bit broken due to how scaling works in processing
+I added some tools to cut and crop the image in order to get better results in the Mathematica notebook.
 
-use the mathematica notebook
+In this repository, the old project written in Processing is still avaible, though it's broken, don't use that unless your a mathemagician and you know how to fix it.
